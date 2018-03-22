@@ -1,0 +1,25 @@
+{
+  "name": "zadanie-13-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafal0802/zadanie-13-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafal0802/zadanie-13-9/issues"
+  },
+  "homepage": "https://github.com/Rafal0802/zadanie-13-9#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "formidable": "^1.2.1"
+  }
+}
